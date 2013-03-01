@@ -1,0 +1,6 @@
+serverurl: 'http://mysubsonicserver.org'
+serverpath: '/rest'
+serverport: 4040
+username: 'myuser'
+password: 'mypass'
+apiversion: '1.8.0'
